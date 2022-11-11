@@ -2,6 +2,8 @@
 
 ![Screenshoot](https://raw.githubusercontent.com/joaquinns/password-generator-js/master/password%20generator.PNG)
 
+[See the app](https://password-generator-js-flax.vercel.app/)
+
 # Getting Started with Password Generator with js
 
 ## Available Scripts
